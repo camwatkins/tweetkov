@@ -8,3 +8,4 @@ six==1.11.0
 tweepy>=3.7.0
 urllib3==1.23
 discord
+pytest>=5.3.5
